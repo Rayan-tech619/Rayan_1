@@ -30,3 +30,5 @@ print("Hoy es {} del mes {} del año {} con la hora {} y microsegundos {}".forma
 ```
 
 **(Es un ejemplo sin acabar, todavia necesito ver tutoriales porque me cuesta)**
+
+
