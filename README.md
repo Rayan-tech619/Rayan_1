@@ -11,7 +11,7 @@ Buenas, tengo 16 años y quiero ser programador y esto me esta costando.
 - Aprender a programar los juegos
 - Jugar a mis juegos
 
-
+## A continuación, os enseñare lo que se un poco sobre python
 ```python
 import datetime
 
@@ -31,5 +31,6 @@ print("Hoy es {} del mes {} del año {} con la hora {} y microsegundos {}".forma
 
 **(Es un ejemplo sin acabar, todavia necesito ver tutoriales porque me cuesta)**
 
+# Bueno ahora tendras que pulsar para ir a otra pagina (pulsa en mi nombre)
 ![rayan.md](rayan.md)
 
